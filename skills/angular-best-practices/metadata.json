@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "organization": "Angular Team",
+  "date": "January 2026",
+  "angularVersion": "21+",
+  "abstract": "Comprehensive performance optimization and best practices guide for Angular v21+ applications, designed for AI agents and LLMs. Contains 45+ rules across 10 categories, prioritized by impact from critical (change detection, bundle optimization) to incremental (style conventions). Each rule includes detailed explanations, real-world examples comparing incorrect vs. correct implementations, and specific impact metrics to guide automated refactoring and code generation.",
+  "references": [
+    "https://angular.dev",
+    "https://angular.dev/style-guide",
+    "https://angular.dev/best-practices/security",
+    "https://angular.dev/guide/signals",
+    "https://angular.dev/guide/templates/defer",
+    "https://angular.dev/guide/templates/control-flow",
+    "https://angular.love/angular-21-whats-new"
+  ]
+}
